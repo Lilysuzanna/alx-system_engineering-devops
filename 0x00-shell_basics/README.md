@@ -1,1 +1,2 @@
-my shell basics readme.md
+#!/bin/bash
+my readme.md shell
